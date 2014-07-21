@@ -1,0 +1,1 @@
+INSERT INTO ecs_bonus_type (type_id,type_name,type_money,send_type,min_amount, max_amount,send_start_date,send_end_date,use_start_date,use_end_date,min_goods_amount) values(68,6,' A0188','Ã¨×¦µ°¸â','+',0,4,'',0,'0.000','0.00','0.00','0.00',0,0,0,'','','','','','',1,'',1,1,0,0,1375728111,100,0,0,0,0,0,0,1375728337,2,'',-1,-1,0,NULL,1);
