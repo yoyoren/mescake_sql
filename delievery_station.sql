@@ -4,7 +4,11 @@
  station_lng char(200) not null,
  station_name char(200) not null,
  station_address varchar(400) not null,
+ station_province_id varchar(200) not null,
+ station_province_name varchar(200) not null,
  station_city_id varchar(200) not null,
  station_city_name varchar(200) not null,
+ station_district_id varchar(200) not null,
+ station_district_name varchar(200) not null,
  station_zone varchar(200) not null
 );
